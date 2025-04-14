@@ -26,28 +26,28 @@ Other: dotenv, CORS, ES Modules
 ## 📸 Screenshots
 
 ### 👤 Signup Page
-![SignUp](./screenshots/SignUp.png)
+![SignUp](./Backend/screenshots/SignUp.png)
 
 ### 🔑 Login Page
-![Login](./screenshots/Login.png)
+![Login](./Backend/screenshots/Login.png)
 
 ### 🏠  All Stories
-![All Stories](./screenshots/All-Stories.png)
+![All Stories](./Backend/screenshots/All-Stories.png)
 
 ### ➕ Add New Story
-![Add Story](./screenshots/Add-Story.png)
+![Add Story](./Backend/screenshots/Add-Story.png)
 
 ### ❤️ Favorites
-![Favorites](./screenshots/Favourites.png)
+![Favorites](./Backend/screenshots/Favourites.png)
 
 ### 🔍 Search Stories
-![Search](./screenshots/Search.png)
+![Search](./Backend/screenshots/Search.png)
 
 ### 📅 Filter by Date Range
-![Filter](./screenshots/Filter.png)
+![Filter](./Backend/screenshots/Filter.png)
 
 ### ✏️ Update Story
-![Update](./screenshots/Update.png)
+![Update](./Backend/screenshots/Update.png)
 
 ### 🗑️ Delete Story
-![Delete](./screenshots/Delete.png)
+![Delete](./Backend/screenshots/Delete.png)
