@@ -19,7 +19,7 @@ Auth: JWT, bcrypt
 
 File Upload: Multer, File System
 
-Frontend: React (Not included in this repo if it's backend-only)
+Frontend: React, Tailwindcss, Shadcn ui
 
 Other: dotenv, CORS, ES Modules
 
